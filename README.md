@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1kKyaWkfKihgLXdc2UKIke5Z8UUdwAzJ4/view?usp=drivesdk)
+[![MasterHead](https://www.canva.com/design/DAGTAjl2_QI/FR_7uotG46YmM_q6KKtEzQ/view?utm_content=DAGTAjl2_QI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 <h1 align="center">Hi 👋, I'm Arshdeep Singh Virdi</h1>
 <h3 align="center">A passionate developer with knowledge about AI ML.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
