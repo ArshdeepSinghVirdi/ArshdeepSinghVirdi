@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer with knowledge about AI ML.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Project**
@@ -35,6 +33,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/arsh_singh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshdeep singh virdi" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshdeepsinghvirdi&show_icons=true&locale=en&layout=compact" alt="arshdeepsinghvirdi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeepsinghvirdi&" alt="arshdeepsinghvirdi" /></p>
