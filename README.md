@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Data Structures and Core Computer Subjects**
+- 🌱 I’m currently learning **DSA and AI ML**
 
 - 👯 I’m looking to collaborate on **Web dev and App dev projects**
 
