@@ -1,12 +1,12 @@
 <h1 draggable="false" align="center" style="user-select: none;">
     <img draggable="false" style="user-select: none;" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arshdeep+Singh+Virdi!;" />
 </h1>
-<h3 align="center">A passionate developer with knowledge about AI ML and Data Science</h3>
+<h3 align="center">An enthusiastic developer driven by a strong foundation in AI, Machine Learning, and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **DSA and AI ML**
 
