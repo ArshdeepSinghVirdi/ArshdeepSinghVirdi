@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **DSA and AI ML**.
 
-- 👯 I’m looking to collaborate on **Innovative Web and App Development projects**.
+- 👯 I’m looking to collaborate on **Web and App Development projects**.
 
 - 👨‍💻 All of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arsh-portfolio-lac.vercel.app/).
 
-- 💬 Ask me about **How AI/ML powers modern Web and App Development**.
+- 💬 Ask me about **how AI/ML powers modern Web and App Development**.
 
 - 📫 How to reach me **arshdeepsingh92283@gmail.com**.
 
