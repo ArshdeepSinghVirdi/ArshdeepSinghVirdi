@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Personal Projects**.
 
-- 🌱 I’m currently learning **DSA and AI ML**
+- 🌱 I’m currently learning **DSA and AI ML**.
 
-- 👯 I’m looking to collaborate on **Web dev and App dev projects**
+- 👯 I’m looking to collaborate on **Innovative Web and App Development projects**.
 
-- 👨‍💻 All of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arsh-portfolio-lac.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arsh-portfolio-lac.vercel.app/).
 
-- 💬 Ask me about **Web development and App Development**
+- 💬 Ask me about **How AI/ML powers modern Web and App Development**.
 
-- 📫 How to reach me **arshdeepsingh92283@gmail.com**
+- 📫 How to reach me **arshdeepsingh92283@gmail.com**.
 
-- 📄 Know about my experiences, achievements and Positions [https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk ](https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk )
+- 📄 Know about my experiences, achievements and positions [https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk ](https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk ).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
