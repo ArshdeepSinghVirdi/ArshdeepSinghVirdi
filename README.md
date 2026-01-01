@@ -4,6 +4,7 @@
 <h3 align="center">An enthusiastic developer driven by a strong foundation in AI, Machine Learning, and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+
 - ✈️ Currently working as a **Software Developer at Boeing**.
 
 - 🌱 Actively **building** and **scaling** personal projects.
