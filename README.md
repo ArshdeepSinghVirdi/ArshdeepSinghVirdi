@@ -10,7 +10,7 @@
 
 - 🌱 Actively **building** and **scaling** personal projects.
 
-- 👯 Open to collaborating with driven **builders** and **innovators**.
+- 🤝 Open to collaborating with driven **builders** and **innovators**.
 
 - 👨‍💻 All of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arsh-portfolio-lac.vercel.app/).
 
