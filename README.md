@@ -2,6 +2,7 @@
     <img draggable="false" style="user-select: none;" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arshdeep+Singh+Virdi!;" />
 </h1>
 <h3 align="center">An enthusiastic developer driven by a strong foundation in AI, Machine Learning, and Data Science.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
