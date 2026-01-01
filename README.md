@@ -4,13 +4,11 @@
 <h3 align="center">An enthusiastic developer driven by a strong foundation in AI, Machine Learning, and Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- ✈️ Currently working as a **Software Developer at Boeing**.
 
-- 🔭 I’m currently working on **Personal Projects**.
+- 🌱 Actively **building** and **scaling** personal projects.
 
-- 🌱 I’m currently learning **DSA and AI ML**.
-
-- 👯 I’m looking to collaborate on **Web and App Development projects**.
+- 👯 Open to collaborating with driven **builders** and **innovators**.
 
 - 👨‍💻 All of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arsh-portfolio-lac.vercel.app/).
 
