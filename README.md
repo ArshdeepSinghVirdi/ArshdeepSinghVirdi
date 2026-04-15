@@ -28,6 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/arsh_singh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshdeep singh virdi" /></a></p><br><br>
-
-
-
