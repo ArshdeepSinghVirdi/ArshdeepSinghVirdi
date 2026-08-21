@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **arshdeepsingh92283@gmail.com**.
 
-- 📄 Know about my experiences, achievements and positions [https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk ](https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk ).
+- 📄 Know about my experiences, achievements and positions [https://drive.google.com/file/d/1vk9FF4hpNnwQyR2JWRI6F8oGz7e2QaXU/view?usp=drivesdk ](https://drive.google.com/file/d/1SrncaGovRn5Dz024gm2Bat8T2BlR_Piw/view?usp=sharing).
 
 
 
