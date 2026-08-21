@@ -12,7 +12,7 @@
 
 - 🤝 Open to collaborating with driven **builders** and **innovators**.
 
-- 👨‍💻 Some of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arsh-portfolio-lac.vercel.app/).
+- 👨‍💻 Some of my projects are available at [https://arsh-portfolio-lac.vercel.app/](https://arshdeep-portfolio-new.vercel.app/).
 
 - 💬 Ask me about **how AI/ML powers modern Web and App Development**.
 
